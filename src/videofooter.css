@@ -1,0 +1,17 @@
+.videoFooter{
+    position: relative;
+    color: white;
+    bottom: 120px;
+    display: flex;
+    margin-left: 20px;
+}
+.videoFooter__text{
+  flex: 1;   
+}
+.footer__ticker{
+    
+}
+.ticker__class{
+    margin-top: -24px;
+margin-left: 28px;
+}
